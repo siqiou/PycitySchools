@@ -11,6 +11,7 @@ In the district summary, the average math score dropped 0.1, average reading sco
 - How is the school summary affected?
 
 The overall math passing percentage with cleaned data shows 74.8%, where as the old data shows 75.9%. The overall reading passing percentage with cleaned data also dropped to 85.7%, the original precentage was 86.8%. The overall passing percentage also decreased by 1%.
+![test](../Resource/Summary.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
